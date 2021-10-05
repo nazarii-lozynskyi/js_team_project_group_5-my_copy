@@ -1,2 +1,1 @@
-# js_team_project_group_5
-js_team_project_group_5
+JS project group 5
