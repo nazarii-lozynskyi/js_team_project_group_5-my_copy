@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://kyle-roman.github.io/js_team_project_group_5/",
+  "homepage": "https://nazarii-lozynskyi.github.io/js_team_project_group_5-my_copy/",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /js_team_project_group_5/"
+    "build": "parcel build src/*.html --public-url /js_team_project_group_5-my_copy/"
   },
   "repository": {
     "type": "git",
